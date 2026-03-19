@@ -28,7 +28,7 @@
 
   
 > [!TIP]
-> Demo site: https://crain.oksanye.com  
+> Demo site: https://crain.oksanye.com
 
 
 
